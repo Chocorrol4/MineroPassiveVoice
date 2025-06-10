@@ -1,2 +1,1 @@
-# MineroPassiveVoice
-Responde Correctamente
+
